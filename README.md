@@ -24,4 +24,6 @@ Testowany serwis jest już online. Nie mam dokumentacji oraz wymagań. Mój bud�
 #### Wnioski
 
 1. Defekty
-   - element kodu wyświetla się na stronie startowej ![screen](https://github.com/matysekprzemek/uniquechoice/blob/daaa2069a3afcea5ff1ccf93a2f88cced218650b/Zrzut%20ekranu%202023-02-1%20o%2015.31.44.png)
+   - element kodu wyświetla się na stronie startowej
+  
+   ![screen](https://github.com/matysekprzemek/uniquechoice/blob/daaa2069a3afcea5ff1ccf93a2f88cced218650b/Zrzut%20ekranu%202023-02-1%20o%2015.31.44.png)
