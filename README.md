@@ -57,4 +57,14 @@ Testowany serwis jest już online. Nie mam dokumentacji oraz wymagań. Mój bud�
 
 2. Defekty, wyszukiwarka.
 
-- 
+- cytowana fraza wpisana w polu wyszukiwania w wynikach wyszukiwania wykracza poza widzialne pole, jest nie do odczytania:
+
+![screen](https://github.com/matysekprzemek/uniquechoice/blob/0d8f0701a19b40509cbfb5e08cdb7e0e6a115e3b/Zrzut%20ekranu%202023-02-2%20o%2011.56.33.png)
+
+- w przypadku nie znalezienia szukanych fraz w wyszukiwarce, komunikat jest wyświetlany w formie przycisku, zamiast tekstu, może byc to mylące dla użytkownika:
+
+![screen](https://github.com/matysekprzemek/uniquechoice/blob/c3db277d3bf778ea4f9e427bc87e10d31ad5fa10/Zrzut%20ekranu%202023-02-2%20o%2012.01.34.png)
+
+- przycisk "Dodaj do koszyka" wychodzi poza obramowanie podglądu wyniku wyszukiwania:
+
+![screen](uniquechoice/Zrzut ekranu 2023-02-2 o 12.06.29.png)
