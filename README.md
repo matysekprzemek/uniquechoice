@@ -39,4 +39,4 @@ Testowany serwis jest już online. Nie mam dokumentacji oraz wymagań. Mój bud�
 
 - wielkośc kafelków nowości nie jest jednakowa, strona startowa
   
-![screen](Zrzut ekranu 2023-02-2 o 10.54.29.png)
+![screen](https://github.com/matysekprzemek/uniquechoice/blob/471110319ac59ca8b3dbe087439fd665e1022397/Zrzut%20ekranu%202023-02-2%20o%2010.54.29.png)
