@@ -67,4 +67,4 @@ Testowany serwis jest już online. Nie mam dokumentacji oraz wymagań. Mój bud�
 
 - przycisk "Dodaj do koszyka" wychodzi poza obramowanie podglądu wyniku wyszukiwania:
 
-![screen](uniquechoice/Zrzut ekranu 2023-02-2 o 12.06.29.png)
+![screen](matysekprzemek/uniquechoice/Zrzut ekranu 2023-02-2 o 12.06.29.png)
