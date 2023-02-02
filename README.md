@@ -67,8 +67,4 @@ Testowany serwis jest już online. Nie mam dokumentacji oraz wymagań. Mój bud�
 
 - przycisk "Dodaj do koszyka" wychodzi poza obramowanie podglądu wyniku wyszukiwania:
 
-<<<<<<< HEAD
 [screen](screen10.png)
-=======
-![screen](screen10.png)
->>>>>>> c5cabb6ffe16874f65dfedfda596dfa77781773e
