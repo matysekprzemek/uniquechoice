@@ -54,3 +54,7 @@ Testowany serwis jest już online. Nie mam dokumentacji oraz wymagań. Mój bud�
 - wszystkie trzy odnośniki mailto w stopce są wpisane nieprawidłowo:
 
 ![screen](https://github.com/matysekprzemek/uniquechoice/blob/349ac8231d4917bb152895e567463bb2b4fc8c38/Zrzut%20ekranu%202023-02-2%20o%2011.29.05.png)
+
+2. Defekty, wyszukiwarka.
+
+- 
