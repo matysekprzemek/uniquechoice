@@ -36,3 +36,7 @@ Testowany serwis jest już online. Nie mam dokumentacji oraz wymagań. Mój bud�
 - formatowanie tekstu w nagłówkach, w kafelkach nowości jest różne, tekst różni się wielkością, strona startowa:
 
 ![screen](https://github.com/matysekprzemek/uniquechoice/blob/04fa3c56a949056012dca785dd4ed7a15a6ea33e/Zrzut%20ekranu%202023-02-1%20o%2016.59.45.png)
+
+- wielkośc kafelków nowości nie jest jednakowa, strona startowa
+  
+![screen](Zrzut ekranu 2023-02-2 o 10.54.29.png)
