@@ -4,14 +4,15 @@
   - [Opis projektu](#opis-projektu)
   - [Wybór testów](#wybór-testów)
     - [Testy eksploracyjne](#testy-eksploracyjne)
-      - [Defekty - strona startowa](#defekty---strona-startowa)
-      - [Defekty - wyszukiwarka](#defekty---wyszukiwarka)
-      - [Defekty - podstrona "O nas"](#defekty---podstrona-o-nas)
-      - [Defekty - podstrona "Sklep"](#defekty---podstrona-sklep)
-      - [Defekty - podstrona "zamówienie"](#defekty---podstrona-zamówienie)
-      - [Defekty - Inne](#defekty---inne)
-      - [Defekty - podstrona "Kawiarnia"](#defekty---podstrona-kawiarnia)
-      - [Defekty - podstrona "moje-konto"](#defekty---podstrona-moje-konto)
+      - [Defekty](#defekty)
+        - [uniquechoice.pl - strona startowa](#uniquechoicepl---strona-startowa)
+        - [wyszukiwarka](#wyszukiwarka)
+        - [uniquechoice.pl/o-nas/](#uniquechoiceplo-nas)
+        - [uniquechoice.pl/sklep/](#uniquechoiceplsklep)
+        - [uniquechoice.pl/zamowienie/](#uniquechoiceplzamowienie)
+        - [uniquechoice.pl/kawiarnia/](#uniquechoiceplkawiarnia)
+        - [uniquechoice.pl/moje-konto/](#uniquechoiceplmoje-konto)
+      - [Inne](#inne)
 
 ---
 
@@ -30,7 +31,9 @@ Testowany serwis jest już online. Nie mam dokumentacji oraz wymagań. Mój bud�
 
 ### Testy eksploracyjne
 
-#### Defekty - strona startowa
+#### Defekty
+
+##### uniquechoice.pl - strona startowa
 
 ID|Tytuł|Priorytet|Załącznik
 -|-|-|-
@@ -44,7 +47,7 @@ ID|Tytuł|Priorytet|Załącznik
 008|przycisk "Dodaj do koszyka" oraz przycisk "Wybierz opcje" mają inny styl|lowest|[screen](screen6.png)
 009|wszystkie trzy odnośniki mailto w stopce są wpisane nieprawidłowo|high|[screen](screen7.png)
 
-#### Defekty - wyszukiwarka
+##### wyszukiwarka
 
 ID|Tytuł|Priorytet|Załącznik
 -|-|-|-
@@ -52,13 +55,13 @@ ID|Tytuł|Priorytet|Załącznik
 011|w przypadku nie znalezienia szukanych fraz w wyszukiwarce, komunikat jest wyświetlany w formie przycisku, zamiast tekstu, może byc to mylące dla użytkownika|lowest|[screen](screen9.png)
 012|przycisk "Dodaj do koszyka" wychodzi poza obramowanie podglądu wyniku wyszukiwania|lowest|[screen](screen10.png)
 
-#### Defekty - podstrona "O nas"
+##### uniquechoice.pl/o-nas/
 
 ID|Tytuł|Priorytet|Załącznik
 -|-|-|-
 013|przycisk przewijania kafelków z grafikami wydarzeń, przy których współpracowała firma nie przewija kafelków, przenosi natomiast na dół strony|lowest|[video](video1.gif)
 
-#### Defekty - podstrona "Sklep"
+##### uniquechoice.pl/sklep/
 
 ID|Tytuł|Priorytet|Załącznik
 -|-|-|-
@@ -68,25 +71,22 @@ ID|Tytuł|Priorytet|Załącznik
 017|przycisk "Informacje dodatkowe" na podstronie produktu po wykonaniu akcji nie przenosi do zamierzonej podstrony tylko przenosi na górę strony|low
 018|przycisk "Zapytanie ofertowe" w widoku koszyka wywołuje okno, w którym wyświetla się kod źródłowy, akcja jest niemożliwa do wykonania|high|[screen](screen12.png)
 
-#### Defekty - podstrona "zamówienie"
+##### uniquechoice.pl/zamowienie/
+
 ID|Tytuł|Priorytet|Załącznik
 -|-|-|-
 019|po kliknięciu w przycisk "Jeżeli masz już konto **Kliknij tutaj, aby się zalogowac**" wyświetla się nieprzetłumaczony tekst|lowest|[screen](screen13.png)
 020|automat do resetowania hasła nie weryfikuje czy wpisany adres e-mail jest poprawny, formularz przyjmuje jakąkolwiek wpisaną frazę za wyłączeniem spacji oraz pustego pola|highest|
 021|po zaznaczeniu opcji "Chcę fakturę VAT" pole "Nazwa firmy" może pozostac niewypełnione, formularz przyjmuje tak wypełnione zamówienie, nie powinien, to pole powinno byc obowiązkowe|high
 
-#### Defekty - Inne
-ID|Tytuł|Priorytet|Załącznik
--|-|-|-
-023|komunikat "404 strony nie znaleziono| na podstronie 404 nie wyświetla się prawidłowo, jest zasłonięty przez belkę górną|medium|[video](video3.gif)
-024|dwa umieszczone na tej samej podstronie przyciski pojawiają się dopiero po najechaniu na nie kursorem|medium|[video](video3.gif)
+##### uniquechoice.pl/kawiarnia/
 
-#### Defekty - podstrona "Kawiarnia"
 ID|Tytuł|Priorytet|Załącznik
 -|-|-|-
 022|komnunikat cookies wyświetla się w miejscu, które jest nieklikalne, jako element tła, jest również przez to zasłonięty przez elementy belki górnej nawigacji|medium|[screen](screen14.png)
 
-#### Defekty - podstrona "moje-konto"
+##### uniquechoice.pl/moje-konto/
+
 ID|Tytuł|Priorytet|Załącznik
 -|-|-|-
 023|po zalogowaniu się wyświetla się nieprzetłumaczony tekst|medium|[screen](screen15.png)
@@ -95,3 +95,10 @@ ID|Tytuł|Priorytet|Załącznik
 026|email zmiany hasła jest nieprzetłumaczony|medium|[screen](screen18.png)
 027|zmiany danych konta w podstronie moje-konto/edit-account (szczegóły konta) nie jest możliwa, wyświetlony błąd "Wyświetlana nazwa jest wymaganym polem", takiego pola nie ma w szczegółach konta|high|[screen](screen19.png)
 028|komunikat o słabym haśle wyświetla się pomimo spełnienia wszystkich warunków mocnego hasła|lowest|
+
+#### Inne
+
+ID|Tytuł|Priorytet|Załącznik
+-|-|-|-
+029|komunikat "404 strony nie znaleziono, na podstronie 404 nie wyświetla się prawidłowo, jest zasłonięty przez belkę górną|medium|[video](video3.gif)
+030|dwa umieszczone na tej samej podstronie przyciski pojawiają się dopiero po najechaniu na nie kursorem|medium|[video](video3.gif)
