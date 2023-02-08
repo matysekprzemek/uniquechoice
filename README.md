@@ -12,13 +12,13 @@
         - [uniquechoice.pl/zamowienie/](#uniquechoiceplzamowienie)
         - [uniquechoice.pl/kawiarnia/](#uniquechoiceplkawiarnia)
         - [uniquechoice.pl/moje-konto/](#uniquechoiceplmoje-konto)
-      - [Inne](#inne)
+        - [Inne](#inne)
 
 ---
 
 ## Opis projektu
 
-W projekcie tym zajmę się manualnym testowaniem sklepu internetowego firmy Uniquechoice.pl. Serwis można obejrzec [tutaj](https://uniquechoice.pl. Moim celem nadrzędnym przy realizacji tego projektu jest rozpoczęcie praktyki pracy testera manualnego.
+W projekcie tym zajmę się manualnym testowaniem sklepu internetowego firmy Uniquechoice.pl. Serwis można obejrzec [tutaj](https://uniquechoice.pl). Moim celem nadrzędnym przy realizacji tego projektu jest rozpoczęcie praktyki pracy testera manualnego.
 
 ---
 
@@ -96,7 +96,7 @@ ID|Tytuł|Priorytet|Załącznik
 027|zmiany danych konta w podstronie moje-konto/edit-account (szczegóły konta) nie jest możliwa, wyświetlony błąd "Wyświetlana nazwa jest wymaganym polem", takiego pola nie ma w szczegółach konta|high|[screen](screen19.png)
 028|komunikat o słabym haśle wyświetla się pomimo spełnienia wszystkich warunków mocnego hasła|lowest|
 
-#### Inne
+##### Inne
 
 ID|Tytuł|Priorytet|Załącznik
 -|-|-|-
